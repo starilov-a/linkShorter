@@ -1,0 +1,73 @@
+body {
+    font-family: "Ubuntu Mono";
+    background-color: black;
+}
+a {
+    color: #4B6EED;
+}
+form p {
+    display: inline-block;
+}
+#field, #field:focus {
+    width: 50%;
+    border: 0;
+}
+
+#submit {
+    border: 1px #4B6EED solid;
+    height: 30px;
+}
+
+.neon-text {
+    background-color: black;
+    color: #4B6EED;
+    text-shadow:
+            -0   -5px 3px rgba( 36, 98, 204, 0.11 ),
+            0   -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -0    5px 3px rgba( 36, 98, 204, 0.11 ),
+            0    5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -0   3px rgba( 36, 98, 204, 0.11 ),
+            5px -0   3px rgba( 36, 98, 204, 0.11 ),
+            -5px  0   3px rgba( 36, 98, 204, 0.11 ),
+            5px  0   3px rgba( 36, 98, 204, 0.11 ),
+            -1px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            1px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -1px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            1px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -1px 3px rgba( 36, 98, 204, 0.11 ),
+            5px -1px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px  1px 3px rgba( 36, 98, 204, 0.11 ),
+            5px  1px 3px rgba( 36, 98, 204, 0.11 ),
+            -2px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            2px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -2px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            2px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -2px 3px rgba( 36, 98, 204, 0.11 ),
+            5px -2px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px  2px 3px rgba( 36, 98, 204, 0.11 ),
+            5px  2px 3px rgba( 36, 98, 204, 0.11 ),
+            -3px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            3px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -3px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            3px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -3px 3px rgba( 36, 98, 204, 0.11 ),
+            5px -3px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px  3px 3px rgba( 36, 98, 204, 0.11 ),
+            5px  3px 3px rgba( 36, 98, 204, 0.11 ),
+            -4px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            4px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -4px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            4px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -4px 3px rgba( 36, 98, 204, 0.11 ),
+            5px -4px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px  4px 3px rgba( 36, 98, 204, 0.11 ),
+            5px  4px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            5px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            5px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            5px -5px 3px rgba( 36, 98, 204, 0.11 ),
+            -5px  5px 3px rgba( 36, 98, 204, 0.11 ),
+            5px  5px 3px rgba( 36, 98, 204, 0.11 );
+}
